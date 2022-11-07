@@ -1,0 +1,19 @@
+body{
+    color: rgb(0, 0, 0);
+    te
+    display: block;
+    background-image: url("./pexels-rahul-716398.jpg");
+    background-size:cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin: 50px auto;
+    text-align: justify;
+    max-width: 700px;
+}
+h1,h2{
+    text-align: center;
+}
+#texto{
+    background-color: rgba(255, 255, 255, 0.507);
+    padding: 10PX 60PX 10PX 60PX;
+}
