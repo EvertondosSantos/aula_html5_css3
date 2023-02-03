@@ -1,8 +1,7 @@
 body{
     color: rgb(0, 0, 0);
-    te
-    display: block;
-    background-image: url("./pexels-rahul-716398.jpg");
+    display:block;
+    background-image:url("./pexels-rahul-716398.jpg");
     background-size:cover;
     background-position: center;
     background-repeat: no-repeat;
